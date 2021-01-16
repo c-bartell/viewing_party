@@ -14,7 +14,7 @@ Viewing Party is a Ruby on Rails application that allows users to explore movie 
 
 ## Deployment Link
 
-[Viewing Party Heroku Deployment](https://agile-retreat-25350.herokuapp.com/)
+[Viewing Party Heroku Deployment](https://agile-springs-75621.herokuapp.com/)
 
 ## Requirements
  ### Testing Dependencies
